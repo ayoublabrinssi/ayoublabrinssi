@@ -57,10 +57,11 @@ Focus on **performance, clean architecture, and AI-driven workflows**.
 ### 🚀 Projects
 | Project | Description |
 |--------|------------|
-| **Sehtek** | Medical analysis + anomaly detection |
-| **Car Rental SaaS** | Full fleet & booking system |
-| **Immo-Estatmar** | Investment & lending platform |
+| **[Sehtek](https://ayoublabrinssi.online/projects/sehtek-platform)** | Medical analysis + anomaly detection |
+| **[Car Rental SaaS](https://ayoublabrinssi.online/projects/car-rental-saas-platform)** | Full fleet & booking system |
+| **[Immo-Estatmar](https://ayoublabrinssi.online/projects/immo-estatmar)** | Investment & lending platform |
 
+#### [💻 See all projects & Learn more ](https://ayoublabrinssi.online/projects)
 ---
 
 ### 📊 GitHub Analytics
@@ -75,6 +76,13 @@ Focus on **performance, clean architecture, and AI-driven workflows**.
 <img height="160" src="https://github-readme-activity-graph.vercel.app/graph?username=ayoublabrinssi&bg_color=0A192F&color=00FF9C&line=00FF9C&point=ffffff&area=true&hide_border=true" />
 
 </div>
+
+---
+
+### 🌱 Currently Learning / Exploring
+- Advanced AI Agents & Self-Orchestrating Workflows  
+- Real-time Data Pipelines for SaaS Platforms  
+- AI-driven UI/UX personalization
 
 ---
 
