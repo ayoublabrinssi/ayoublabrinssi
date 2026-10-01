@@ -55,27 +55,8 @@ Focus on **performance, clean architecture, and AI-driven workflows**.
 ---
 
 ### 🚀 Projects
-| Project | Description |
-|--------|------------|
-| **[Sehtek](https://ayoublabrinssi.online/projects/sehtek-platform)** | Medical analysis + anomaly detection |
-| **[Car Rental SaaS](https://ayoublabrinssi.online/projects/car-rental-saas-platform)** | Full fleet & booking system |
-| **[Immo-Estatmar](https://ayoublabrinssi.online/projects/immo-estatmar)** | Investment & lending platform |
 
 #### [💻 See all projects & Learn more ](https://ayoublabrinssi.online/projects)
----
-
-### 📊 GitHub Analytics
-<div align="center">
-
-<!-- Row 1 -->
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayoublabrinssi&show_icons=true&theme=dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff&bg_color=0A192F" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoublabrinssi&theme=dark&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&background=0A192F" />
-<br/>
-<!-- Row 2 -->
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayoublabrinssi&layout=compact&theme=dark&hide_border=true&title_color=00FF9C&text_color=ffffff&bg_color=0A192F" />
-<img height="160" src="https://github-readme-activity-graph.vercel.app/graph?username=ayoublabrinssi&bg_color=0A192F&color=00FF9C&line=00FF9C&point=ffffff&area=true&hide_border=true" />
-
-</div>
 
 ---
 
